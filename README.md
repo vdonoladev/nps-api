@@ -26,6 +26,14 @@ Aplicação web construída na trilha NodeJS da Next Level Week distribuída pel
 
 Estudos em NodeJS
 
+## :rocket: Tecnologias Utilizadas 
+
+O projeto foi desenvolvido utilizando as seguintes tecnologias
+
+- Node.JS
+- Express
+- Yarn
+
 ---
 
 ### :books: Dia 1 (Rumo ao Próximo Nível)
@@ -36,13 +44,7 @@ No primeiro dia vamos aprender os conceitos básicos sobre o que é uma API, ent
 
 No segundo dia vamos iniciar a configuração do banco de dados na nossa aplicação, aprendendo algumas formas possíveis para realizar o acesso do banco de dados através do Nodejs. Vamos entender os conceitos de migrations, models e criar nossa primeira tabela de usuário. Também nessa aula iremos aprender e criar nosso primeiro Controller, isolando toda regra para dentro dele.
 
-## :rocket: Tecnologias Utilizadas 
-
-O projeto foi desenvolvido utilizando as seguintes tecnologias
-
-- Node.JS
-- Express
-- Yarn
+---
 
 ## Licença 
 
