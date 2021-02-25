@@ -13,8 +13,7 @@
   <a href="#licença">Licença</a>
 </h3>
 
-___
-
+---
 
 ## :information_source: Sobre
 
@@ -26,7 +25,7 @@ Aplicação web construída na trilha NodeJS da Next Level Week distribuída pel
 
 Estudos em NodeJS
 
-## :rocket: Tecnologias Utilizadas 
+## :rocket: Tecnologias Utilizadas
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias
 
@@ -48,8 +47,12 @@ No segundo dia vamos iniciar a configuração do banco de dados na nossa aplica�
 
 No terceiro dia vamos conhecer o conceito de Repository e como podemos utilizar ele para separar as responsabilidades nos componentes corretos. Vamos também dar inícios aos testes automatizados e entender os benefícios que eles trazem para a nossa aplicação.
 
+### :books: Dia 4 (Envio de E-mail)
+
+No quarto dia vamos aprender como enviar e-mail, utilizando templates customizados com informações vindas do banco de dados. Vamos aprender também como utilizar variáveis de ambiente dentro da aplicação.
+
 ---
 
-## Licença 
+## Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
