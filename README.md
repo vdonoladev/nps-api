@@ -32,6 +32,56 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 - Node.JS
 - Express
 - Yarn
+- TypeORM
+
+## ⤵ Instruções para Instalação e Execução
+
+Estas instruções o levarão a uma cópia do projeto em execução em seu computador local para teste e desenvolvimento. O teste de integração foi implementado.
+
+Nota: O banco de dados é Sqlite3, se você deseja alterar, configure o arquivo ormconfig.json para seu banco de dados específico (o campo "database" é o nome do banco de dados no SGBD, o projeto é local).
+
+```bash
+- git clone https://github.com/vdonoladev/nps-api.git
+- cd nps-api
+```
+
+Instale dependências (NPM é recomendado para compatibilidade com reflect-metadata)
+
+```bash
+- npm install
+```
+
+ou
+
+```bash
+- yarn install
+```
+
+Gerar o arquivo de database.sqlite do Sqlite3, onde ficaram armazenados as tabelas da API
+
+```bash
+- yarn devDB
+```
+
+Criando tabela das migrations do Sqlite3 por meio do cli do TypeOrm
+
+```bash
+- yarn typeorm migration:run
+```
+
+Inicializando uma instância local (Script configurado no package.json)
+
+```bash
+- yarn dev
+```
+
+## ⤵ Testes
+
+Para testar se instalou a aplicação corretamente e se passa em todos os testes de integração, utilize o comando:
+
+```bash
+- yarn test
+```
 
 ---
 
