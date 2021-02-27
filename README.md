@@ -51,6 +51,10 @@ No terceiro dia vamos conhecer o conceito de Repository e como podemos utilizar 
 
 No quarto dia vamos aprender como enviar e-mail, utilizando templates customizados com informações vindas do banco de dados. Vamos aprender também como utilizar variáveis de ambiente dentro da aplicação.
 
+### :books: Dia 5 (Finalizando nossa API com Validações)
+
+Nessa última aula vamos finalizar o fluxo da nossa aplicação, inserir validações dos dados recebidos e aprender como tratar os possíveis erros.
+
 ---
 
 ## Licença
